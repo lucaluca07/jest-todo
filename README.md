@@ -4,4 +4,4 @@
 
 - npm run start 运行程序
 - npm run test 运行测试
-- npm run test -- --coverage
+- npm run test -- --coverage 查看测试报告
